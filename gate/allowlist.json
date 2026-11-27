@@ -1,0 +1,23 @@
+{
+  "events": [
+    "workflow_dispatch"
+  ],
+  "builds": [
+    "875f69758343f1895c383a51e14e98489b5aef1e1eb47362dcb73f24ef7ce7f8"
+  ],
+  "pinned": {
+    ".github/workflows/agent-testers.yml": "e6636fce6f401f3709e4c17711a7fab4679fe376f66b8bf40f216820427292d7",
+    "gate/gate.py": "bf8ca4b1721c3f4099acc26d148abe7dbc63d818f2e938159a3ca262d72db7e8"
+  },
+  "actors": [
+    "neptune-source"
+  ],
+  "repository": "neptune-source/device-lab",
+  "markers": [
+    "0d64ee9411b06c06eaa4329b146a0fb313608979612f66bff24f0146032aeb17",
+    "30c772ffa1819a604d6c1f041141e9c536b5d90c64695801fb13ab3387f23c9d",
+    "88481443c945f810da1344e73dd4898fd22b8048b341e1bd71236fd85c194d34",
+    "c903d1e584e3657387b508b6cfedc2611893c43ec2f04edc43035296fcb19008",
+    "c986ba195c81c422362fd9b1862731e64332305607abd5cdc2f36ad14f2d6e59"
+  ]
+}
